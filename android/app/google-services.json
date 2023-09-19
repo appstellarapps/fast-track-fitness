@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829654571447",
+    "project_id": "fast-track-fitness-db7a2",
+    "storage_bucket": "fast-track-fitness-db7a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829654571447:android:7c38ea483700d53f5c7032",
+        "android_client_info": {
+          "package_name": "com.fasttrackfitness.fasttrackfitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829654571447-50bbni5m68q2vcr5e84o06ps4vlnh3ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADQcqhE3Qqd8gQW_NT1OaMO8WsB7IbUwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829654571447-50bbni5m68q2vcr5e84o06ps4vlnh3ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
